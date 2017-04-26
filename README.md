@@ -10,7 +10,7 @@ The screenshot name will contain the banner's name and the timestamp.
 2. Download the [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/).
 
 ## Requirements
-  Data csv template must contains the same extracture as in the data folder
+  Data csv template must contains the same structure as in the data folder
   
 ## Author:
 Boris Ivan Barreto
