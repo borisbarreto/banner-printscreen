@@ -2,7 +2,7 @@
 
 ## Instalation
 
-1. Download the executable file.
+1. Download the banner.exe file.
 2. Download the [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/).
 
 ## Requirements
