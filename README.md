@@ -1,8 +1,8 @@
 # BANNER SCANNER
 
-Small app that looks for a banner in a webpage and takes a printscreen.
+Small app that looks for a marketing banner in a webpage, refreshing the page as many time s the users wants and taking a printscreen as a prove that the banner was publish in a site.
 
-The screenshot name will contain the banner's name and the timestamp.  
+The screenshot will capture the full windows screen, including the windows taskbar, in order to see the local time in the picture, the file's name will contain the banner's name from the csv file and the timestamp.
 
 ## Instalation
 
