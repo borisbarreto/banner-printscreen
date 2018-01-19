@@ -11,6 +11,9 @@ The screenshot name will contain the banner's name and the timestamp.
 
 ## Requirements
   In the data forlder you will find the templates of the csv files that should be used for the scanning process, take into consideration that csv files must contains the same structure.
+
+## Support
+  - Compatible with Chrome 63  
   
 ## Author:
 Boris Ivan Barreto
