@@ -7,7 +7,7 @@ The screenshot will capture the full windows screen, including the windows taskb
 ## Instalation
 
 1. Download the banner.exe file.
-2. Download the [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/).
+2. Download the [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads).
 
 ## Requirements
   In the data forlder you will find the templates of the csv files that should be used for the scanning process, take into consideration that csv files must contains the same structure.
